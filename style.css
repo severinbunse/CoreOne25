@@ -1,0 +1,20 @@
+.container {
+	display: flex;
+	flex-direction: row;
+/*	flex-direction: column;*/
+	justify-content: center;
+/*	align-items: center;*/
+	flex-wrap: wrap;
+/*	align-content: center;*/
+	gap: 0em;
+}
+
+figure {
+	margin: 0px;
+	text-align: center;
+	font-size: 24px;
+}
+
+img {
+	width: 450px;
+}
